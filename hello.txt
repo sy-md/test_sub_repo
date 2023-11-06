@@ -10,3 +10,5 @@ jnhjknlk
 =======
 ch
 >>>>>>> frank
+
+casey here im having some thoughts we should create a system for storeing images 
