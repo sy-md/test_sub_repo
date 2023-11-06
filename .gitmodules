@@ -1,0 +1,3 @@
+[submodule "atna_config_dotfiles"]
+	path = atna_config_dotfiles
+	url = https://github.com/sy-md/atna_config_dotfiles.git
