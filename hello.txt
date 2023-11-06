@@ -12,3 +12,4 @@ ch
 >>>>>>> frank
 
 casey here im having some thoughts we should create a system for storeing images 
+	im thinking we should create a folder called atna_images and thats where we will store it
