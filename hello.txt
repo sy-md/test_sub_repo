@@ -1,4 +1,12 @@
 hi there
 
 
+<<<<<<< HEAD
+im
+atna chig stuff
+
+
+jnhjknlk
+=======
 ch
+>>>>>>> frank
